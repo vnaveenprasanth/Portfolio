@@ -25,8 +25,9 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import senseforth from "./company/senseforth.png";
 import tesla from "./company/tesla.png";
-
+import yelpcamp from "./yelpcamp.png";
 import portfolio from "./portfolio.png";
+import cropper from "./cropper.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -57,6 +58,8 @@ export {
   senseforth,
   tesla,
   portfolio,
+  yelpcamp,
+  cropper,
   jobit,
   tripguide,
 };
